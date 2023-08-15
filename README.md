@@ -1,27 +1,23 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Shriwant</h1>
-<h3 align="center">Frontend developer from India</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<h1 align="center">Hi 👋, I'm Aaditya Kumar</h1>
+<h3 align="center">Frontend developer from India</h
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha-shriwant&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha-shriwant" /> </p>
 
 <!-- - 🔭 I’m currently working on [Save-it](https://github.com/Aniruddha-Shriwant/save-it) -->
 
 - 🌱 I’m currently learning **C++**
 
-<!-- - 👯 I’m looking to collaborate on **React Projects** -->
-
-
-
 - 👨‍💻 All of my projects are available at [(https://github.com/asdfqwert2311))
 
+- 📫 How to reach me **voidalrogue@gmail.com**
 
+  <img src="https://media.giphy.com/media/CKF2uJ9zMVrjc9N4Yu/giphy.gif" alt="Overwatch 2 Sojourn GIF"  width="100%" >
 
-- 📫 How to reach me **aniruddhashriwant@gmial.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aniruddhashriwant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aniruddhashriwant" height="30" width="40" /></a>
-<a href="https://twitter.com/aniruddhastwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniruddhastwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniruddha-shriwant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-shriwant" height="30" width="40" /></a>
+<a href="linkedin.com/in/aaditya-kumar-560952217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aaditya-kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
