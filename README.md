@@ -1,13 +1,14 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 <h1 align="center">Hi 👋, I'm Aaditya Kumar</h1>
-<h3 align="center">Tech-Enthusiast from India</h
+<h3 align="center">Tech-Enthusiast </h3>
+<h3 align="center">Btech, Electronics (IIIT Naya Raipur) </h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning : **C++**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/asdfqwert2311))
+👨‍💻 All of my projects are available at [(https://github.com/asdfqwert2311))
 
-- 📫 How to reach me **voidalrogue@gmail.com**
+- 📫 Let's Talk : **voidalrogue@gmail.com**
 
   <img src="https://media.giphy.com/media/CKF2uJ9zMVrjc9N4Yu/giphy.gif" alt="Overwatch 2 Sojourn GIF"  width="100%" >
 
